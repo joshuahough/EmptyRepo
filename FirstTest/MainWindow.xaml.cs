@@ -22,9 +22,8 @@ namespace FirstTest
     {
         public MainWindow()
         {
+            //Test Test Test
             InitializeComponent();//this is a test 
-            //another test
-            //with a test
         }
     }
 }
